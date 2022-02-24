@@ -1,36 +1,46 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# project name here
 
-> Project description here.
+# Enumerable Ruby
+
+> A program that can take a phrase in morse code and decode it
 
 ## Built With
 
-- Ruby.
-- Linters.
+- Ruby
 
-## Install
+## Getting Started
 
-- Install Ruby based on your OS from [HERE](https://www.ruby-lang.org/en/downloads/).
+To get a local copy up and running follow these simple example steps.
 
-## Setup
+### Prerequisites
+- have Ruby installed
 
-1. Clone the project using git-bash or Githup Desktop.
-2. Open the project folder with VSCode or any Editor.
-3. Open terminal and navigate to the project folder.
-4. Type `irb`.
-5. Copy the code from files and run it.
+### Install
+- open your terminal
+- run `git clone git@github.com:disc3110/decode-morse-code-ruby.git`
 
-## Author
+### Usage
+- Run  `ruby morse_code.rb` 
+## Authors
 
-👨‍💻 **Omar Muhammad**
+👤 **Diego Ivan**
 
-- GitHub: [@Omar-Muhamad](https://github.com/Omar-Muhamad)
-- Twitter: [@Eng_OmarMuhamad](https://twitter.com/Eng_OmarMuhamad)
-- LinkedIn: [@eng-omarmuhammad](https://www.linkedin.com/in/eng-omarmuhammad/)
+- GitHub: [@disc3110](https://github.com/disc3110)
+- Twitter: [@disc3110](https://twitter.com/disc3110)
+- LinkedIn: [Diego Solis](https://www.linkedin.com/in/diego-solis-cuevas/)
+
+👤 **Mihreteab Misganaw Aride**
+
+- GitHub: [@Mre55](https://github.com/Mre55)
+- Twitter: [@MreMisganaw](https://twitter.com/MreMisganaw)
+- LinkedIn: [Mihreteab Aride](https://www.linkedin.com/in/mihreteab-aride-86249812b/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
